@@ -13,7 +13,7 @@ This repository contains the updated scripts in Python 3.8 to simulate the Namin
 - [Citation](#citation)
 
 ## Python Versions and Required Packages  
-The scripts has been tested  with Python 3.8.10. 3.8.16, 3.11.5
+The script has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
 The following library is also required for running the scripts
  - [NumPy](https://numpy.org/)
