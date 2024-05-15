@@ -1,0 +1,6 @@
+0-nA, 1-nB, winning 0 6 1 4 [0]
+Overall Simulation time 1000
+Convergence time 19
+Max Total Number Words 13
+Seed 234
+Current Date and Time Tue May 14 13:01:35 2024
