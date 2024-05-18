@@ -1,7 +1,9 @@
 import numpy as np
-import sys
 import random
 import time
+
+# This script simulates the naming game dynamics of N interacting agents
+# who can learn two names only, namely A and B.
 
 def main():
     with open("input.txt", "r") as ins:
