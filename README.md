@@ -24,7 +24,7 @@ consensus at some time (the convergence time), that is, convergence to a state w
 stored into file `results.text`.
 
 ## Input
-Before to launch the script the user needs to input the following values in the input file `input.text`: number of agents N, initial number of agents with A, initial number of agents with B, number of steps for the simulation and the seed for the random number generator. The suitable choice of number of steps depends upon the system size N and can be inferred by the corresponding scaling law in Gionni Marchetti, et al., Chaos: An Interdisciplinary Journal of Nonlinear Science, **30**, 6, 063119, 2020 and references therein. The seed is necessary for the reproducibility of the results. 
+Before to launch the script the user needs to input the following values in the input file `input.text`: number of agents N, initial number of agents with A, initial number of agents with B, number of steps for the simulation and the seed for the random number generator. The suitable choice of number of steps depends upon the system size N and can be inferred by the corresponding scaling law in Gionni Marchetti et al., Chaos: An Interdisciplinary Journal of Nonlinear Science, **30**, 6, 063119, 2020 and references therein. The seed is necessary for the reproducibility of the results. 
 
 ## Citation 
 Gionni Marchetti, et al., A bird's-eye view of naming game dynamics: From trait competition to Bayesian inference, Chaos: An Interdisciplinary Journal of Nonlinear Science, **30**, 6, 063119, 2020
